@@ -6,7 +6,7 @@ public class Persona
     public Casa casa { get; set; }
     public Persona()
     {
-        nombre = "Juan";
+        nombre = "Jesús";
         casa = new Casa(150);
     }
 
