@@ -5,7 +5,7 @@ class Program
     {
         Persona persona = new Persona();
         persona.MostrarDatos();
-        persona.SetNombre("Carlos");
+        persona.SetNombre("Emmanuel");
         Apartamento apartamento = new Apartamento();
         Casa casa = new Casa(50);
         persona.SetCasa(casa);
